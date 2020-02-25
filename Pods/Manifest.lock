@@ -1,0 +1,25 @@
+PODS:
+  - SwiftLint (0.39.1)
+  - Swinject (2.6.0)
+  - SwinjectStoryboard (2.2.0):
+    - Swinject (~> 2.6)
+
+DEPENDENCIES:
+  - SwiftLint
+  - Swinject (= 2.6.0)
+  - SwinjectStoryboard
+
+SPEC REPOS:
+  trunk:
+    - SwiftLint
+    - Swinject
+    - SwinjectStoryboard
+
+SPEC CHECKSUMS:
+  SwiftLint: 55e96a4a4d537d4a3156859fc1c54bd24851a046
+  Swinject: 48a96cda93633cf2860697b4ce76ab5db9ebaca2
+  SwinjectStoryboard: 32512ef16c2b0ff5b8f823b23539c4a50f6d3383
+
+PODFILE CHECKSUM: 8cddcedc83e41ca0704da348f66644f554b99ebb
+
+COCOAPODS: 1.8.4

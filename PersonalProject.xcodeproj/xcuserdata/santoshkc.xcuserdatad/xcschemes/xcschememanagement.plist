@@ -7,7 +7,25 @@
 		<key>PersonalProject.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>F8742CAE23F4112D00805301</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F8742CC423F4113000805301</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F8742CCF23F4113000805301</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
